@@ -20,4 +20,8 @@
 - Compliance and legal.
 
 #### Example:
-1 AWS
+1. AWS.
+2. Azure
+3. GCP-(DA,AL,ML)
+4. IBM-Cloud
+5. Oracle cloud
